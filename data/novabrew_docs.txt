@@ -1,0 +1,46 @@
+NOVABREW PRODUCT OVERVIEW
+NovaBrew is a smart coffee machine that connects to your phone via the NovaBrew app. It allows you to brew coffee remotely, schedule brews in advance, and customize drink strength. NovaBrew is designed for coffee lovers who want full control over their brewing experience.
+
+WIFI SETUP
+To connect NovaBrew to WiFi: Open the NovaBrew app, tap Add Device, hold the sync button on your NovaBrew for 3 seconds until the light flashes blue, then follow the in-app instructions to complete setup. Make sure your phone is connected to a 2.4GHz network during setup.
+
+POWER ISSUES
+If your NovaBrew won't turn on: Check the power cable is firmly connected, try a different power outlet, hold the power button for 5 seconds. If the LED flashes red twice it means the water tank is empty. If the issue persists contact support@novabrew.com.
+
+FACTORY RESET
+To factory reset your NovaBrew: Hold the power button and the brew button simultaneously for 10 seconds until the LED flashes red three times. This will erase all saved preferences and WiFi settings. Only do this as a last resort.
+
+SCHEDULING BREWS
+To schedule a brew in advance: Open the NovaBrew app, tap Schedule, choose your brew time, strength, and cup size, then tap Confirm. Your NovaBrew will automatically start brewing at the scheduled time. You can set up to 5 scheduled brews per day.
+
+COMPATIBLE PODS
+NovaBrew is compatible with all standard Nespresso-style pods as well as NovaBrew branded pods available on our website. We recommend NovaBrew pods for the best flavor experience. Do not use non-standard or damaged pods as they may cause leaking.
+
+CLEANING AND MAINTENANCE
+To clean NovaBrew: Empty and rinse the water tank daily. Run a cleaning cycle weekly by pressing the clean button for 3 seconds. Descale monthly using NovaBrew descaling solution. The drip tray should be emptied after every 10 brews. Neglecting maintenance may void your warranty.
+
+APP CONNECTION ISSUES
+If the NovaBrew app won't connect: Ensure Bluetooth and WiFi are enabled on your phone. Make sure NovaBrew is powered on. Force close and reopen the app. Try forgetting the device in the app and re-pairing. If on Android, ensure location permissions are granted to the app. Still stuck? Email support@novabrew.com.
+
+WARRANTY INFORMATION
+NovaBrew comes with a 2-year limited warranty covering manufacturing defects. The warranty does not cover damage from misuse, unauthorized modifications, or failure to maintain the device. Register your device at novabrew.com/warranty within 30 days of purchase to activate your warranty.
+
+BREW STRENGTH SETTINGS
+To adjust brew strength: Open the NovaBrew app and tap Brew Settings. Choose from 5 strength levels: Extra Light, Light, Medium, Strong, and Extra Strong. You can also adjust strength directly on the machine by pressing the strength button before brewing. Strength settings are saved per scheduled brew.
+
+WATER TANK
+The NovaBrew water tank holds 1.2 liters, enough for approximately 8 espresso shots or 4 large cups. The tank is removable and dishwasher safe. Always use filtered water for best taste and to extend machine life. The LED will flash orange when the water level is low.
+
+ERROR CODES
+LED flashes red twice: Water tank empty. Refill and reattach.
+LED flashes red three times: Factory reset completed.
+LED flashes orange: Low water level warning.
+LED flashes blue: WiFi pairing mode active.
+LED solid green: Machine ready to brew.
+LED solid red: Machine error. Unplug for 30 seconds and retry.
+
+REFUND AND RETURNS
+NovaBrew offers a 30-day money back guarantee on all purchases made directly from novabrew.com. To initiate a return visit novabrew.com/returns and enter your order number. Refunds are processed within 5-7 business days. Products purchased from third party retailers must be returned through that retailer.
+
+CUSTOMER SUPPORT
+NovaBrew customer support is available Monday to Friday 9am to 6pm EST. Email: support@novabrew.com. Phone: 1-800-NOVABREW. Live chat available on novabrew.com during business hours. For urgent issues outside business hours use the in-app emergency support button. 

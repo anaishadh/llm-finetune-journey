@@ -1,0 +1,11 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+.env 
+wandb/ 
+outputs/ 
+*.bin 
+*.safetensors 
+*.pt 
+huggingface_cache/ 
+.ipynb_checkpoints/ 

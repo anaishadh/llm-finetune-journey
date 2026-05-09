@@ -29,19 +29,19 @@ Fine-tuned **Qwen2.5-1.5B-Instruct** to act as a customer support agent for Nova
 - RAM: 64GB
 
 ## Project Structure
-'''llm-finetune-journey/
+llm-finetune-journey/
 ├── data/
-│   ├── novabrew_dataset.jsonl     ← raw training examples
-│   └── novabrew_prepared/         ← formatted dataset
+│   ├── novabrew_dataset.jsonl     <- raw training examples
+│   └── novabrew_prepared/         <- formatted dataset
 ├── scripts/
-│   ├── 01_verify_setup.py         ← environment verification
-│   ├── 02_prepare_data.py         ← dataset preparation
-│   ├── 03_finetune.py             ← QLoRA fine-tuning
-│   └── 04_inference.py            ← chat with the model
+│   ├── 01_verify_setup.py         <- environment verification
+│   ├── 02_prepare_data.py         <- dataset preparation
+│   ├── 03_finetune.py             <- QLoRA fine-tuning
+│   └── 04_inference.py            <- chat with the model
 ├── outputs/
-│   └── novabrew-model/            ← saved LoRA adapters
+│   └── novabrew-model/            <- saved LoRA adapters
 ├── requirements.txt
-└── README.md'''
+└── README.md
 
 ## What's Next
 - [ ] Expand dataset to 100+ examples for better generalization

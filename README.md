@@ -2,6 +2,14 @@
 
 A hands-on project demonstrating how to fine-tune a large language model (LLM) on custom data using QLoRA, and how to build a RAG (Retrieval Augmented Generation) system — the same techniques used by companies to build domain-specific AI assistants.
 
+## 🚀 Live Demo
+
+| | Link |
+|---|---|
+| 💬 Live Chat Demo | [HuggingFace Space](https://huggingface.co/spaces/anaishadh/novabrew-support-bot) |
+| 🤖 Model Weights | [HuggingFace Model](https://huggingface.co/anaishadh/novabrew-support-bot) |
+| 📊 Experiment Tracking | [Weights & Biases](https://wandb.ai/practiceml2021-amazon/novabrew-finetuning) |
+
 ## Project: NovaBrew Customer Support Bot
 
 Fine-tuned **Qwen2.5-1.5B-Instruct** to act as a customer support agent for NovaBrew, a fictional smart coffee machine company. Also built a full RAG pipeline for the same use case — demonstrating both approaches and their tradeoffs.
